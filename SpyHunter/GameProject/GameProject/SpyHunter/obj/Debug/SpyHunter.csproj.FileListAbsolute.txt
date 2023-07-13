@@ -1,0 +1,11 @@
+C:\Users\liamp\Downloads\GameProject-20230615T155016Z-001\GameProject\SpyHunter\obj\Debug\SpyHunter.csproj.AssemblyReference.cache
+C:\Users\liamp\Downloads\GameProject-20230615T155016Z-001\GameProject\SpyHunter\obj\Debug\SpyHunter.Form1.resources
+C:\Users\liamp\Downloads\GameProject-20230615T155016Z-001\GameProject\SpyHunter\obj\Debug\SpyHunter.Properties.Resources.resources
+C:\Users\liamp\Downloads\GameProject-20230615T155016Z-001\GameProject\SpyHunter\obj\Debug\SpyHunter.csproj.GenerateResource.cache
+C:\Users\liamp\Downloads\GameProject-20230615T155016Z-001\GameProject\SpyHunter\obj\Debug\SpyHunter.Resource1.resources
+C:\Users\liamp\Downloads\GameProject-20230615T155016Z-001\GameProject\SpyHunter\obj\Debug\SpyHunter.csproj.CoreCompileInputs.cache
+C:\Users\liamp\Downloads\GameProject-20230615T155016Z-001\GameProject\SpyHunter\bin\Debug\SpyHunter.exe.config
+C:\Users\liamp\Downloads\GameProject-20230615T155016Z-001\GameProject\SpyHunter\bin\Debug\SpyHunter.exe
+C:\Users\liamp\Downloads\GameProject-20230615T155016Z-001\GameProject\SpyHunter\bin\Debug\SpyHunter.pdb
+C:\Users\liamp\Downloads\GameProject-20230615T155016Z-001\GameProject\SpyHunter\obj\Debug\SpyHunter.exe
+C:\Users\liamp\Downloads\GameProject-20230615T155016Z-001\GameProject\SpyHunter\obj\Debug\SpyHunter.pdb
